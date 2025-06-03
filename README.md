@@ -7,7 +7,7 @@ A small Python project that converts images into ASCII art, either displayed dir
 ## ✨ Examples
 
 **Input:**  
-![Example image]![SP](https://github.com/user-attachments/assets/95d1cbb5-d154-42d5-bf7c-89adbe799261)
+![SP](https://github.com/user-attachments/assets/95d1cbb5-d154-42d5-bf7c-89adbe799261)
 
 
 **Output (ASCII):**
